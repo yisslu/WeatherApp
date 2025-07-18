@@ -6,7 +6,7 @@
 
 ## 📱 Features
 
-- 🗺 List of countries with flags (London, Canada, Mexico, Brazil)
+- 🗺 List of countries with flags (e.g. London, Canada, Mexico, Brazil)
 - 🌤 View weather details: temperature, UV index, and city name
 - 📍 Integrated map showing the location of the selected city
 - ⭐ Mark cities as favorites
