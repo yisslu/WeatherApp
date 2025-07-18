@@ -1,0 +1,42 @@
+[
+   {
+      "id": 1,
+      "nombre": "London"
+   },
+   {
+      "id": 2,
+      "nombre": "Canada"
+   },
+   {
+      "id": 3,
+      "nombre": "Mexico"
+   },
+   {
+      "id": 4,
+      "nombre": "Brazil"
+   },
+   {
+      "id": 5,
+      "nombre": "Argentina"
+   },
+   {
+      "id": 6,
+      "nombre": "Spain"
+   },
+   {
+      "id": 7,
+      "nombre": "France"
+   },
+   {
+      "id": 8,
+      "nombre": "Germany"
+   },
+   {
+      "id": 9,
+      "nombre": "Japan"
+   },
+   {
+      "id": 10,
+      "nombre": "China"
+   }
+]
